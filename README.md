@@ -1,4 +1,4 @@
-# test-pack2
+# test-pack2 (edit file from both _vendor folder and local fodler)
 
 `
 $ pack pull # pull dependencies from manifest.yaml file
